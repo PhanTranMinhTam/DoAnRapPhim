@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0161C9F9-A9A3-4F9C-BE87-B0FD885613EF}|BUL\\BUL.csproj|D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\bul\\dudoanbul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161C9F9-A9A3-4F9C-BE87-B0FD885613EF}|BUL\\BUL.csproj|solutionrelative:bul\\dudoanbul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC001A1-CA44-4D31-A4F6-59143C42F139}|GUI\\GUI.csproj|D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\gui\\frm_qlbanve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC001A1-CA44-4D31-A4F6-59143C42F139}|GUI\\GUI.csproj|solutionrelative:gui\\frm_qlbanve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB4DD9C-3EEE-402C-983D-52CCAA931B43}|DTO\\DTO.csproj|D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\dto\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB4DD9C-3EEE-402C-983D-52CCAA931B43}|DTO\\DTO.csproj|solutionrelative:dto\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C16824-FD2C-4BC2-983E-3C9D9E96B297}|DAL\\DAL.csproj|d:\\ptudtm_moi\\nhom14_quanlyrapchieuphim\\nhom14_quanlyrapchieuphim\\nhom14_quanlyrapchieuphim\\dal\\dudoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C16824-FD2C-4BC2-983E-3C9D9E96B297}|DAL\\DAL.csproj|solutionrelative:dal\\dudoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB4DD9C-3EEE-402C-983D-52CCAA931B43}|DTO\\DTO.csproj|D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\dto\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB4DD9C-3EEE-402C-983D-52CCAA931B43}|DTO\\DTO.csproj|solutionrelative:dto\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_QLBanVe.cs",
+              "DocumentMoniker": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\GUI\\frm_QLBanVe.cs",
+              "RelativeDocumentMoniker": "GUI\\frm_QLBanVe.cs",
+              "ToolTip": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\GUI\\frm_QLBanVe.cs",
+              "RelativeToolTip": "GUI\\frm_QLBanVe.cs",
+              "ViewState": "AQIAAMoEAAAAAAAAAAAiwN0EAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:50:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\DTO\\InputModel.cs",
+              "RelativeDocumentMoniker": "DTO\\InputModel.cs",
+              "ToolTip": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\DTO\\InputModel.cs",
+              "RelativeToolTip": "DTO\\InputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:48:10.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuDoanBUL.cs",
+              "DocumentMoniker": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\BUL\\DuDoanBUL.cs",
+              "RelativeDocumentMoniker": "BUL\\DuDoanBUL.cs",
+              "ToolTip": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\BUL\\DuDoanBUL.cs",
+              "RelativeToolTip": "BUL\\DuDoanBUL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:40:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuDoanDAL.cs",
+              "DocumentMoniker": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\DAL\\DuDoanDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DuDoanDAL.cs",
+              "ToolTip": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\DAL\\DuDoanDAL.cs",
+              "RelativeToolTip": "DAL\\DuDoanDAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:39:38.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultModel.cs",
+              "DocumentMoniker": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\DTO\\ResultModel.cs",
+              "RelativeDocumentMoniker": "DTO\\ResultModel.cs",
+              "ToolTip": "D:\\PTUDTM_moi\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\Nhom14_QuanLyRapChieuPhim\\DTO\\ResultModel.cs",
+              "RelativeToolTip": "DTO\\ResultModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:38:22.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

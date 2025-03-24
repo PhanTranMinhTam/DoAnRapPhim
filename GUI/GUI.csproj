@@ -1,0 +1,657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.props" Condition="Exists('..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.props')" />
+  <Import Project="..\packages\Microsoft.ML.CpuMath.4.0.0\build\netstandard2.0\Microsoft.ML.CpuMath.props" Condition="Exists('..\packages\Microsoft.ML.CpuMath.4.0.0\build\netstandard2.0\Microsoft.ML.CpuMath.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BAC001A1-CA44-4D31-A4F6-59143C42F139}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Licensing.6.0.4\lib\net472\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.7.2.0\lib\net472\Bunifu.UI.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.Numerics, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Numerics.8.0.0\lib\net462\Microsoft.Bcl.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.4.0.0\lib\netstandard2.0\Microsoft.ML.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.CpuMath, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.CpuMath.4.0.0\lib\netstandard2.0\Microsoft.ML.CpuMath.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.4.0.0\lib\netstandard2.0\Microsoft.ML.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.DataView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.DataView.4.0.0\lib\netstandard2.0\Microsoft.ML.DataView.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.KMeansClustering, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.4.0.0\lib\netstandard2.0\Microsoft.ML.KMeansClustering.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.PCA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.4.0.0\lib\netstandard2.0\Microsoft.ML.PCA.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.StandardTrainers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.4.0.0\lib\netstandard2.0\Microsoft.ML.StandardTrainers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.Transforms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ML.4.0.0\lib\netstandard2.0\Microsoft.ML.Transforms.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.6.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.6.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.6.0\lib\net462\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.CodeDom, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.CodeDom.8.0.0\lib\net462\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.8.0.0\lib\net462\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.6.0\lib\net462\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Tensors, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Tensors.8.0.0\lib\net462\System.Numerics.Tensors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors, Version=4.1.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.6.0\lib\net462\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.1.0\lib\net462\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Channels, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Channels.8.0.0\lib\net462\System.Threading.Channels.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VietQRHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\VietQRHelper.1.0.2\lib\net35\VietQRHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomMenustrip\MenuColorTable.cs" />
+    <Compile Include="CustomMenustrip\MenuRenderer.cs" />
+    <Compile Include="CustomMenustrip\RJDropdownMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frm_CauHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_CauHinh.Designer.cs">
+      <DependentUpon>frm_CauHinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ChiTietPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ChiTietPhim.Designer.cs">
+      <DependentUpon>frm_ChiTietPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ChonMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ChonMon.Designer.cs">
+      <DependentUpon>frm_ChonMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ChucVu.Designer.cs">
+      <DependentUpon>frm_ChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DangNhap.Designer.cs">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DoiMatKhau.Designer.cs">
+      <DependentUpon>frm_DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DuDoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DuDoan.Designer.cs">
+      <DependentUpon>frm_DuDoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PhanQuyen.Designer.cs">
+      <DependentUpon>frm_PhanQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLBanVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLBanVe.Designer.cs">
+      <DependentUpon>frm_QLBanVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLDichVu.Designer.cs">
+      <DependentUpon>frm_QLDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLKhuyenMai.Designer.cs">
+      <DependentUpon>frm_QLKhuyenMai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLKhachHang.Designer.cs">
+      <DependentUpon>frm_QLKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLLichChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLLichChieu.Designer.cs">
+      <DependentUpon>frm_QLLichChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLLoaiPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLLoaiPhim.Designer.cs">
+      <DependentUpon>frm_QLLoaiPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLManHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLManHinh.Designer.cs">
+      <DependentUpon>frm_QLManHinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLNhanVienChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLNhanVienChucVu.Designer.cs">
+      <DependentUpon>frm_QLNhanVienChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLPhim.Designer.cs">
+      <DependentUpon>frm_QLPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLPhongChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLPhongChieu.Designer.cs">
+      <DependentUpon>frm_QLPhongChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLTaiKhoan.Designer.cs">
+      <DependentUpon>frm_QLTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLNhanVien.Designer.cs">
+      <DependentUpon>frm_QLNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QRCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QRCode.Designer.cs">
+      <DependentUpon>frm_QRCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaDichVu.Designer.cs">
+      <DependentUpon>frm_SuaDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaKhachHang.Designer.cs">
+      <DependentUpon>frm_SuaKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaLichChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaLichChieu.Designer.cs">
+      <DependentUpon>frm_SuaLichChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaLoaiPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaLoaiPhim.Designer.cs">
+      <DependentUpon>frm_SuaLoaiPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaNhanVien.Designer.cs">
+      <DependentUpon>frm_SuaNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaPhim.Designer.cs">
+      <DependentUpon>frm_SuaPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaPhongChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaPhongChieu.Designer.cs">
+      <DependentUpon>frm_SuaPhongChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemDichVu.Designer.cs">
+      <DependentUpon>frm_ThemDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemKhachHang.Designer.cs">
+      <DependentUpon>frm_ThemKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemKhuyenMai.Designer.cs">
+      <DependentUpon>frm_ThemKhuyenMai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemLichChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemLichChieu.Designer.cs">
+      <DependentUpon>frm_ThemLichChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemLoaiPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemLoaiPhim.Designer.cs">
+      <DependentUpon>frm_ThemLoaiPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemNhanVien.Designer.cs">
+      <DependentUpon>frm_ThemNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemPhim.Designer.cs">
+      <DependentUpon>frm_ThemPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemPhongChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemPhongChieu.Designer.cs">
+      <DependentUpon>frm_ThemPhongChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThongKe.Designer.cs">
+      <DependentUpon>frm_ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="uc_ChonDichVu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_ChonDichVu.Designer.cs">
+      <DependentUpon>uc_ChonDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_ChonPhim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_ChonPhim.Designer.cs">
+      <DependentUpon>uc_ChonPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_Ghe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_Ghe.Designer.cs">
+      <DependentUpon>uc_Ghe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_TaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_TaiKhoan.Designer.cs">
+      <DependentUpon>uc_TaiKhoan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_CauHinh.resx">
+      <DependentUpon>frm_CauHinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ChiTietPhim.resx">
+      <DependentUpon>frm_ChiTietPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ChonMon.resx">
+      <DependentUpon>frm_ChonMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ChucVu.resx">
+      <DependentUpon>frm_ChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DangNhap.resx">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DoiMatKhau.resx">
+      <DependentUpon>frm_DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DuDoan.resx">
+      <DependentUpon>frm_DuDoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PhanQuyen.resx">
+      <DependentUpon>frm_PhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLBanVe.resx">
+      <DependentUpon>frm_QLBanVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLDichVu.resx">
+      <DependentUpon>frm_QLDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLKhuyenMai.resx">
+      <DependentUpon>frm_QLKhuyenMai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLKhachHang.resx">
+      <DependentUpon>frm_QLKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLLichChieu.resx">
+      <DependentUpon>frm_QLLichChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLLoaiPhim.resx">
+      <DependentUpon>frm_QLLoaiPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLManHinh.resx">
+      <DependentUpon>frm_QLManHinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLNhanVien.resx">
+      <DependentUpon>frm_QLNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLNhanVienChucVu.resx">
+      <DependentUpon>frm_QLNhanVienChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLPhim.resx">
+      <DependentUpon>frm_QLPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLPhongChieu.resx">
+      <DependentUpon>frm_QLPhongChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLTaiKhoan.resx">
+      <DependentUpon>frm_QLTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QRCode.resx">
+      <DependentUpon>frm_QRCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaDichVu.resx">
+      <DependentUpon>frm_SuaDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaKhachHang.resx">
+      <DependentUpon>frm_SuaKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaLichChieu.resx">
+      <DependentUpon>frm_SuaLichChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaLoaiPhim.resx">
+      <DependentUpon>frm_SuaLoaiPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaNhanVien.resx">
+      <DependentUpon>frm_SuaNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaPhim.resx">
+      <DependentUpon>frm_SuaPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaPhongChieu.resx">
+      <DependentUpon>frm_SuaPhongChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemDichVu.resx">
+      <DependentUpon>frm_ThemDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemKhachHang.resx">
+      <DependentUpon>frm_ThemKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemKhuyenMai.resx">
+      <DependentUpon>frm_ThemKhuyenMai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemLichChieu.resx">
+      <DependentUpon>frm_ThemLichChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemLoaiPhim.resx">
+      <DependentUpon>frm_ThemLoaiPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemNhanVien.resx">
+      <DependentUpon>frm_ThemNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemPhim.resx">
+      <DependentUpon>frm_ThemPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemPhongChieu.resx">
+      <DependentUpon>frm_ThemPhongChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThongKe.resx">
+      <DependentUpon>frm_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="uc_ChonDichVu.resx">
+      <DependentUpon>uc_ChonDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_ChonPhim.resx">
+      <DependentUpon>uc_ChonPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_Ghe.resx">
+      <DependentUpon>uc_Ghe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_TaiKhoan.resx">
+      <DependentUpon>uc_TaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundmain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_CGV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_CGV2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_CGV3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_CGV5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner_login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUL\BUL.csproj">
+      <Project>{0161c9f9-a9a3-4f9c-be87-b0fd885613ef}</Project>
+      <Name>BUL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{f9c16824-fd2c-4bc2-983e-3c9d9e96b297}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{1bb4dd9c-3eee-402c-983d-52ccaa931b43}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
+      <Project>{2597963b-155f-4831-b4be-f5877cff38f3}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\init_image.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.ML.CpuMath.4.0.0\build\netstandard2.0\Microsoft.ML.CpuMath.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.ML.CpuMath.4.0.0\build\netstandard2.0\Microsoft.ML.CpuMath.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.targets'))" />
+  </Target>
+  <Import Project="..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.targets" Condition="Exists('..\packages\Microsoft.ML.4.0.0\build\netstandard2.0\Microsoft.ML.targets')" />
+</Project>

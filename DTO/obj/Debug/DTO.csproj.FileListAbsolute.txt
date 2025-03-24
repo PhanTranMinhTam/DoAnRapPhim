@@ -1,0 +1,88 @@
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\DTO\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\DTO\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\DTO\obj\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\DTO\obj\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\DTO\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\DTO\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\DTO\obj\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\DTO\obj\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll.config
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.Core.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.Data.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.DataView.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.PCA.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.Transforms.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Newtonsoft.Json.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Buffers.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.CodeDom.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Collections.Immutable.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Memory.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Numerics.Tensors.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Numerics.Vectors.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Threading.Channels.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.Core.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.Data.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.DataView.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.PCA.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Microsoft.ML.Transforms.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Buffers.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.CodeDom.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Collections.Immutable.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Memory.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Numerics.Tensors.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Threading.Channels.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\DTO\obj\Debug\DTO.pdb

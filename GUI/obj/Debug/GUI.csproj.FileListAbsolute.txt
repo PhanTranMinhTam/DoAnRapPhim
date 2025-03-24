@@ -1,0 +1,1090 @@
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\DoAn_QuanLyRapChieuPhim\DoAn_QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp2\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\BUL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\DAL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\BUL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\DAL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Temp3\GUI\bin\Debug\DAL.dll.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Resources\init_image.jpg
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\BUL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\DAL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\BUL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\DAL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\bin\Debug\DAL.dll.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan8_9\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[02_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLBanVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLBanVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[06_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLBanVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI VII\PhatTrienUngDungThongMinh\DoAn\Tuan11\New folder\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLBanVe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Temp.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[12_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLBanVe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLVe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_TaiKhoan.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DoiMatKhau.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLManHinh.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChucVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVienChucVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLTaiKhoan.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[17_11]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_PhanQuyen.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChucVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DoiMatKhau.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_PhanQuyen.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLBanVe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLManHinh.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVienChucVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLTaiKhoan.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_TaiKhoan.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.DataView.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Collections.Immutable.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Tensors.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Channels.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.DataView.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Collections.Immutable.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Tensors.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Channels.xml
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Utilities.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Utilities.pdb
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DuDoan.resources
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\GithubPersonal\Person_DoAnQuanLyRapChieuPhim\[02_12]DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Resources\init_image.jpg
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.Licensing.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Guna.UI2.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.DataView.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Collections.Immutable.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Tensors.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Channels.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Utilities.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\BUL.pdb
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.pdb
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DAL.dll.config
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Utilities.pdb
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Bunifu.UI.WinForms.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ML.DataView.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\RestSharp.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Buffers.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.CodeDom.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Collections.Immutable.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Memory.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Tensors.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Text.Json.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Channels.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\bin\Debug\System.ValueTuple.xml
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_CauHinh.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChiTietPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChonMon.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ChucVu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DangNhap.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DoiMatKhau.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_DuDoan.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_HienThiGhe.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_PhanQuyen.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLBanVe.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLDichVu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhuyenMai.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_Main.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLKhachHang.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLichChieu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLLoaiPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLManHinh.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVien.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLNhanVienChucVu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLPhongChieu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_QLTaiKhoan.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaDichVu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaKhachHang.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLichChieu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaLoaiPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaNhanVien.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_SuaPhongChieu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemDichVu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhachHang.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemKhuyenMai.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLichChieu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemLoaiPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemNhanVien.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThemPhongChieu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.frm_ThongKe.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonDichVu.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_ChonPhim.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_Ghe.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.uc_TaiKhoan.resources
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\PTUDTM_moi\[07_12]_DoAnQuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
